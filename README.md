@@ -1,4 +1,3 @@
-````markdown
 # Used Cars Recommendation System
 
 ## Introduction
@@ -58,7 +57,6 @@ The system uses the [Craigslist Cars and Trucks dataset](https://www.kaggle.com/
    git clone <repository-url>
    cd <repository-directory>
    ```
-````
 
 2. Install the dependencies:
    ```bash
